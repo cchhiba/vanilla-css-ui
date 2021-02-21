@@ -1,0 +1,88 @@
+
+
+/* css custom starts */
+  div {
+    border: 1px solid black;
+  }
+.moblie-container {
+  height: 100vh;
+  border: 1px solid pink;
+}
+  .mobile-nav {
+    background-color: green;
+    height: 50px;
+  }
+
+  .burger-menu,
+  .logo,
+  .search {
+    height: 100%;
+    width: 20.1%;
+    display: inline-block;
+  }
+
+  .logo {
+    width: 57.5%;
+  }
+
+  .search {
+    width: 20.75%;
+  }
+
+  .daily-section {
+    background-color: blue;
+    height: 120px;
+    height: 30vh;
+  }
+  .current-city {
+    text-transform: uppercase;
+    margin-top: 13px;
+    margin-bottom: 13px;
+    padding-left: 10px;
+  }
+  .weather-img,
+  .weather-info {
+    float: left;
+    width: 49.4%;
+    height: 70%;
+    border: none;
+  }
+
+  .map-section {
+    background-color: yellow;
+    height: 20vh;
+    margin: 15px;
+  }
+.map {
+    height: 78%;
+    background-color: purple;
+}
+.map-title {
+  width: 80%;
+  float: left;
+  height: 20%
+}
+.expand {
+  width: 18.8%;
+  float: right;
+  height: 20%;
+}
+  .favourite-section {
+    background-color: red;
+    height: 20vh;
+    padding: 5px;
+    margin: 14px;
+  }
+
+  .footer-section {
+    background-color: pink;
+    height: 120px;
+  }
+  .left-section,
+  .middle-section,
+  .right-section {
+    display: inline-block;
+    height: 14.4vh;
+    width: 14.6vh;
+  }
+/* css cutom ends */
